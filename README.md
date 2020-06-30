@@ -1,4 +1,4 @@
-[icon](./art/tl-droid-logo.png)
+[!icon](./art/tl-droid-logo.png)
 
 # TLDroid : Basic Tensorflow-Lite usecase and wrapping library for Android
 
