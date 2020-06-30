@@ -1,0 +1,4 @@
+include ':classification'
+include ':core'
+include ':app'
+rootProject.name = "TL-Droid"
